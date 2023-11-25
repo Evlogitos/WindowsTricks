@@ -1,0 +1,3 @@
+# WindowsTricks
+
+With this repository my main goal is to help some people in completing some basic windows tasks such as activating windows and so on...
